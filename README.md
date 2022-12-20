@@ -5,7 +5,7 @@
 - 🤔 I'm Student majoring in `CSE` and `ISE`
 - 🌱 I’m currently interested in `Cloud`, `Front End`
 - 🥅 2023 Goals : Grow up!
-- ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs..
+- ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs.
 
 <br><br/>
 ### 🛠 Languages
