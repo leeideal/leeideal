@@ -3,7 +3,7 @@
 ### 🔭 Welcome to leeideal GitHub! 👋 
 
 - 🤔 I'm Student majoring in `CSE` and `ISE`
-- 🌱 I’m currently interested in `Graphics Engine`, `Information Security` and `Front End`
+- 🌱 I’m currently interested in `HCI`, `Graphics Engine` and ``
 - 🥅 2023 Goals : Grow up!
 - ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs.
 
