@@ -2,9 +2,9 @@
 
 ### 🔭 Welcome to leeideal GitHub! 👋 
 
-- 🤔 I'm Student majoring in `CSE` and `ISE`
-- 🌱 I’m currently interested in `HCI`, `Graphics Engine` and `Digital Twin`
-- 🥅 2023 Goals : Grow up!
+- 🤔 I'm Student majoring in `ISE(Industrial Systems Engineering)` and `CSE(Computer Engineering)`
+- 🌱 I’m currently interested in `HCI`, `FE` and `NLP`
+- 🥅 2023 Goals : Experience various things!
 - ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs.
 
 <br><br/>
