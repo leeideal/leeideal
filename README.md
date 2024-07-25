@@ -3,7 +3,7 @@
 ### 🔭 Welcome to leeideal GitHub! 👋 
 
 - 🤔 I'm Student majoring in `ISE(Industrial Systems Engineering)` and `CSE(Computer Engineering)`
-- 🌱 I’m currently interested in `HCI`
+- 🌱 I’m currently interested in `PM` and `HCI`
 - 🥅 2024 Goals : Clean Closure & Fresh Start
 - ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs.
 
