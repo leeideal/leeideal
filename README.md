@@ -2,10 +2,12 @@
 
 ### 🔭 Welcome to leeideal GitHub! 👋 
 
-- 🤔 I'm Student majoring in `ISE(Industrial Systems Engineering)` and `CSE(Computer Engineering)`
+- 🔥 Currently, I work as a `UX researcher` at `Hyundai Motor Company`.
+- 🤔 I majored in`ISE(Industrial Systems Engineering)` and `CSE(Computer Engineering)`
 - 🌱 I’m currently interested in `UX` and `HCI`
-- 🥅 2024 Goals : Clean Closure & Fresh Start
+- 🥅 2025 Goals : A Great Start to My Career
 - ⚡ Fun fact: I like dog, so I am `volunteering` for abandoned dogs.
+- 📱 More Info: If you're Curious, come visit My Blog! <a href="https://idealtory.tistory.com/">🖐(<- Click Me!)</a>
 
 <br><br/>
 ### 🛠 Languages
